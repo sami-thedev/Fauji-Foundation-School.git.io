@@ -3,7 +3,7 @@
 module.exports = {
   mode: "jit",
   content: [
-      "./index.html,main.js",
+      "./index.html",
       
   ],
   theme: {
