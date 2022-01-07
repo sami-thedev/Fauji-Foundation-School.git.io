@@ -28,7 +28,7 @@ module.exports = {
 
 
       backgroundImage: {
-        'hero-pattern': "linear-gradient(to right bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/school.jpg')",
+        'hero-pattern': "linear-gradient(to right bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./images/school.jpg')",
       },
 
       colors: {
